@@ -1,0 +1,15 @@
+.post {
+    margin-top: 80px;
+    .post-title {
+        margin-bottom: 40px;
+    }
+    .post-content {
+        margin-bottom: 40px;
+        img {
+            width: 100%;
+        }
+        p {
+            padding-top: 20px;
+        }
+    }
+}
